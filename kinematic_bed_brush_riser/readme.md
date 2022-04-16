@@ -3,6 +3,8 @@
 Designed to be used with the Whoppingpochard kinematic bed mod:
 https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
 
+This may be useful for other extra-tall beds.
+
 ## Prints:
 
 One of either of these based on your height preference:
