@@ -1,5 +1,7 @@
 ## Voron V2 Kinematic Bed Brush Riser
 
+![Completed Install](https://github.com/catid/voron/raw/master/kinematic_bed_brush_riser/completed_install.jpg "Completed Install")
+
 Designed to be used with the Whoppingpochard kinematic bed mod:
 https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
 
