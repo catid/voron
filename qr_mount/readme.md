@@ -1,5 +1,7 @@
 ## Voron V2 Bondtech QR Extruder Mount
 
+![Completed Install](https://github.com/catid/voron/raw/master/qr_mount/completed_install3.jpg "Completed Install")
+
 ## Materials:
 
 Electronics:
