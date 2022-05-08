@@ -17,9 +17,11 @@ Fasteners:
 
 + Small screws that come with the HDMI adapters and PiCam - Do not throw these away!  If you lost some you can use 2-3 screws instead of 4 and share between the mounts.
 + 2x m3 Heatset insert
-+ 2x m3x12
-+ 2x m3x8
-+ 3x 2020 T-nut insert
++ 2x m3x12 bolts (for camera)
++ 2x m3x8 bolts (for HDMI adapters)
++ 2x m3 2020 T-nut insert (for HDMI adapters)
++ 1x m5 2020 T-nut insert (for camera)
++ 1x m5x10 bolt (for camera mount)
 + Some double-sided tape to secure the MIPI cable
 
 ## Prints:
