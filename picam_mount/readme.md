@@ -1,8 +1,10 @@
 ## Voron V2 Pi Camera Mount
 
-![Completed Install](https://github.com/catid/voron/raw/master/picam_mount/installed.jpg "Completed Install")
+![Completed Install](https://github.com/catid/voron/raw/master/picam_mount/installed2.jpg "Completed Install")
 
-![Camera View](https://github.com/catid/voron/raw/master/picam_mount/camera_view.jpg "Camera View")
+![Top Down](https://github.com/catid/voron/raw/master/picam_mount/top_down.jpg "Top Down")
+
+![Camera View](https://github.com/catid/voron/raw/master/picam_mount/camera_view2.jpg "Camera View")
 
 ## Materials:
 
