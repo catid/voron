@@ -20,6 +20,7 @@ Fasteners:
 + 2x m3x12
 + 2x m3x8
 + 3x 2020 T-nut insert
++ Some double-sided tape to secure the MIPI cable
 
 ## Prints:
 
