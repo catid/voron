@@ -1,5 +1,7 @@
 ## Voron V2 Pi Camera Mount
 
+Example video produced by this design: https://www.youtube.com/watch?v=63CIvoFfxug
+
 ![Completed Install](https://github.com/catid/voron/raw/master/picam_mount/installed2.jpg "Completed Install")
 
 ![Top Down](https://github.com/catid/voron/raw/master/picam_mount/top_down.jpg "Top Down")
