@@ -1,6 +1,8 @@
-This is a work in progress, do not use yet.
-
 ## Voron V2 Pi Camera Mount
+
+![Completed Install](https://github.com/catid/voron/raw/master/picam_mount/installed.jpg "Completed Install")
+
+![Camera View](https://github.com/catid/voron/raw/master/picam_mount/camera_view.jpg "Camera View")
 
 ## Materials:
 
@@ -9,14 +11,14 @@ Electronics:
 + Official Raspberry Pi Camera Module V2 8-megapixel sensor 3280 × 2464 1080p V2.1 for Raspberry Pi 3 2 1 model B B+
 + Arducam CSI to HDMI Cable Extension Module with 15pin 60mm FPC Cable for Raspberry Pi Camera Specific (Pack of 2, 1 Set)
 + 3 foot (1 meter) HDMI cable.
++ You might need a slightly longer PiCam MIPI cable to reach from the adapter to the camera.
 
 Fasteners:
 
 + Small screws that come with the HDMI adapters and PiCam - Do not throw these away!  If you lost some you can use 2-3 screws instead of 4 and share between the mounts.
-+ 3x m3 Heatset insert
-+ 1x m3x20
-+ 1x m3x10 or m3x12
-+ 5x m3x8
++ 2x m3 Heatset insert
++ 2x m3x12
++ 2x m3x8
 + 3x 2020 T-nut insert
 
 ## Prints:
@@ -31,7 +33,7 @@ One of each of the STLs included:
 
 ## Assembly:
 
-Install heatset inserts into the larger holes in the 2020Mount (2x) and PCBHolder (1x).
+Install heatset inserts into the two holes in the 2020Mount.
 
 Install the two HDMI adapters into their mounts with their tiny bolts.
 
