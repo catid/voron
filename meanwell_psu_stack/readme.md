@@ -27,7 +27,7 @@ One of each of the STLs included:
 + `MeanwellStackLeft.stl`
 + `MeanwellStackRight.stl`
 
-They should fit on a 250mm printer.
+They should fit on a 250mm build plate.
 
 ## Assembly:
 
