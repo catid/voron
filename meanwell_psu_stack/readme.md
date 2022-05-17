@@ -24,8 +24,6 @@ Fasteners:
 
 ## Prints:
 
-One of each of the STLs included:
-
 + 1x `MeanwellStackLeft.stl`
 + 1x `MeanwellStackRight.stl`
 + 2x `FootSpacerAx2.stl`
