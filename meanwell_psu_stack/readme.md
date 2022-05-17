@@ -9,6 +9,8 @@ My 250mm Voron is not large enough to mount a second 48V PSU in the electronics 
 
 There is a 20mm offset between the two PSUs for airflow.  Both PSUs should have active cooling.  The MEAN WELL 200W PSUs do not have active cooling but the 350W versions do, and they ship fast and are fairly cheap and have good build quality.
 
+Added an extra 20mm to the Voron feet so that the second PSU does not hit the ground, and so that it can breathe.
+
 ## Materials:
 
 Electronics:
@@ -24,8 +26,10 @@ Fasteners:
 
 One of each of the STLs included:
 
-+ `MeanwellStackLeft.stl`
-+ `MeanwellStackRight.stl`
++ 1x `MeanwellStackLeft.stl`
++ 1x `MeanwellStackRight.stl`
++ 2x `FootSpacerAx2.stl`
++ 2x `FootSpacerBx2.stl`
 
 They should fit on a 250mm build plate.
 
@@ -34,3 +38,5 @@ They should fit on a 250mm build plate.
 Install using the m4x6 bolts so that the terminals are exposed as in the picture above.  Then install as normal using the typical Voron mounting option.
 
 The bottom panel should be left off with this mod, since the stack is too tall.
+
+The normal Voron feet spacers should be replaced by the thicc ones, which add an extra 20mm of height under the printer so that the 48V PSU can breathe and so that it doesn't hit the floor.
