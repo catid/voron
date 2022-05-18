@@ -9,7 +9,9 @@ My 250mm Voron is not large enough to mount a second 48V PSU in the electronics 
 
 There is a 20mm offset between the two PSUs for airflow.  Both PSUs should have active cooling.  The MEAN WELL 200W PSUs do not have active cooling but the 350W versions do, and they ship fast and are fairly cheap and have good build quality.
 
-Added an extra 20mm to the Voron feet so that the second PSU does not hit the ground, and so that it can breathe.
+Added an extra 20mm to the Voron feet so that the second PSU does not hit the ground, and so that it can breathe:
+
+![Thicc Legs](https://github.com/catid/voron/raw/master/meanwell_psu_stack/thicc_legs.jpg "Thicc Legs")
 
 ## Materials:
 
