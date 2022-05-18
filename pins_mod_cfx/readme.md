@@ -1,6 +1,6 @@
 ## Carbon Fiber X Axis for Pins Mod
 
-![Print](https://github.com/catid/voron/raw/master/ezneo_led_mount/pins_mod_cfx.png "Print")
+![Print](https://github.com/catid/voron/raw/master/pins_mod_cfx/pins_mod_cfx.png "Print")
 
 Designed to be used with the hartk pins mod:
 https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/
